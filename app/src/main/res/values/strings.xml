@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Tic-Tac-Droid</string>
+  <string name="player_o_score">Player O:</string>
+  <string name="player_x_score">Player X:</string>
+  <string name="draw_score">Draws:</string>
+  <string name="play_again">Play Again</string>
+  <string name="player_turn">Player Turn:</string>
+</resources>
