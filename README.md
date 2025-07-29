@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Droid
+# Tic-Tac-Droid
 
 This repository is a Kotlin-based implementation of the classic Tic Tac Toe game. It was created as part of a project assignment.
 
