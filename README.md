@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Droid
 
-This repository, `project-1-tic-tac-toe-section-01-tic-tac-droid`, is a Kotlin-based implementation of the classic Tic Tac Toe game. It was created as part of a project assignment for **GitHub Classroom**.
+This repository is a Kotlin-based implementation of the classic Tic Tac Toe game. It was created as part of a project assignment.
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ You will need the following tools installed on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KocUniversity/project-1-tic-tac-toe-section-01-tic-tac-droid.git
+   git clone https://github.com/r4yfon/tic-tac-droid.git
    ```
 2. Open the project in **Android Studio**.
 3. Allow Android Studio to download all required dependencies.
